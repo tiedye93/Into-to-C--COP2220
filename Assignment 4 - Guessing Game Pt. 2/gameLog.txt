@@ -1,0 +1,24 @@
+Type in a Letter:
+ m
+Choose a Higher Letter
+
+Type in a Letter:
+ v
+Choose a Lower Letter
+
+Type in a Letter:
+ r
+Choose a Lower Letter
+
+Type in a Letter:
+ q
+Choose a Lower Letter
+
+Type in a Letter:
+ o
+Choose a Lower Letter
+
+Type in a Letter:
+ nGood Job!
+
+
